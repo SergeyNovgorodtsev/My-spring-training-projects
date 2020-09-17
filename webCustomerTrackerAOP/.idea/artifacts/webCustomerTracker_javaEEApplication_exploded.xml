@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="webCustomerTracker:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/webCustomerTracker_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="webCustomerTracker/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
